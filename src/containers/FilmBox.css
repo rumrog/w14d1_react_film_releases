@@ -1,0 +1,28 @@
+.film-box {
+  border: 1.5px solid;
+  padding: 0 1em 1em 1em;
+  background: #efefefff;
+
+	width: 30%;
+	height: 50%;
+	
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  	
+	margin: auto;
+}
+
+.more-films {
+  background: #96bcdaff;
+  border: 1.5px solid;
+  padding: 1em;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: #2068aaff;
+  font-weight: 600;
+}
